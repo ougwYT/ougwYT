@@ -1,25 +1,84 @@
-## Bem-vindo(a) ao  meu perfil
+# Olá, eu sou Miguel Ferreira Sena 👋
 
- <div>
-   <a href="https://github.com/ougwYT">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ougwYT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ougwYT&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
- 
-### Contatos
- 
-<div> 
-  
-  <a href="[https://instagram.com/ougwYT](https://www.instagram.com/ferreira_sena2006/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+### Desenvolvedor Python em formação | Backend | Automação
 
-  <a href = "spinolasena2006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/miguel-ferreira-sena-96a339248" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+Estudante de **Bacharelado em Ciência e Tecnologia na Universidade Federal do ABC (UFABC)** e desenvolvedor em formação, com foco em **Python, backend e automação**.
+
+Atualmente trabalho como **Assistente Administrativo**, onde também aplico programação na solução de problemas reais, desenvolvendo automações para processamento de dados, documentos, imagens e geração de materiais comerciais.
+
+Tenho interesse especial em transformar tarefas manuais e repetitivas em soluções automatizadas através de software.
+
+---
+
+## 🚀 Atualmente
+
+- 🎓 Cursando Bacharelado em Ciência e Tecnologia na **UFABC**
+- 🐍 Aprofundando meus conhecimentos em **Python**
+- ⚙️ Desenvolvendo soluções de **automação**
+- 🌐 Estudando **desenvolvimento backend**
+- 🐧 Utilizando **Linux** no meu ambiente de desenvolvimento
+- 📚 Aprimorando conhecimentos em engenharia e desenvolvimento de software
+
+---
+
+## 🛠️ Tecnologias
+
+### Linguagens e desenvolvimento web
+
+`Python` `JavaScript` `HTML` `CSS`
+
+### Backend e dados
+
+`Django` `Pandas`
+
+### Automação e processamento
+
+`Pillow` `pdfplumber` `Playwright` `RapidFuzz`
+
+### Ferramentas e ambiente
+
+`Git` `GitHub` `Docker` `Linux` `VS Code`
+
+---
+
+# ⭐ Projetos em destaque
+
+## 📦 Gerador Automatizado de Catálogos
+
+Aplicação desenvolvida em **Python** para automatizar um processo real de organização e geração de catálogos comerciais.
+
+O projeto realiza processamento de dados de produtos, categorização, associação de imagens e geração automatizada de catálogos em HTML e PDF.
+
+**Tecnologias:**  
+`Python` `Pandas` `Pillow` `pdfplumber` `RapidFuzz` `Playwright`
+
+🔗 [Repositório](https://github.com/ougwYT/projeto-criador-de-cat-logos)  
+🌐 [Ver projeto](https://ougwyt.github.io/projeto-criador-de-cat-logos/)
+
+---
+
+## 👨‍💻 Portfólio
+
+Portfólio pessoal desenvolvido com **HTML, CSS e JavaScript**, utilizando uma arquitetura modular para separar componentes, dados, seções e funcionalidades da aplicação.
+
+O projeto possui interface responsiva, tema claro/escuro, menu mobile, componentes reutilizáveis e renderização dinâmica das informações.
+
+**Tecnologias:**  
+`JavaScript` `HTML` `CSS` `ES Modules`
+
+🔗 [Repositório](https://github.com/ougwYT/portfolio)  
+🌐 [Acessar portfólio](https://ougwyt.github.io/portfolio/)
+
+---
+
+## 💡 O que estou buscando
+
+Continuar evoluindo como desenvolvedor, aprofundando meus conhecimentos em **Python, backend, automação e engenharia de software**, além de desenvolver projetos que resolvam problemas reais.
+
+---
+
+## 📫 Contato
+
+💼 [LinkedIn](https://www.linkedin.com/in/miguel-ferreira-sena-likedin/)  
+🌐 [Portfólio](https://ougwyt.github.io/portfolio/)  
+💻 [GitHub](https://github.com/ougwYT)
